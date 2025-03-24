@@ -1,7 +1,8 @@
 This is where I store all my Machine Learning Gems! Feel free to reach every project you are interested in!
 Enjoy!
 
-![image](https://github.com/user-attachments/assets/2694fcc0-7da2-4c37-bfbf-50bdab086698)
+![image](https://github.com/user-attachments/assets/af35967a-ac46-43fa-a749-da5d8b114bb8)
+
 
 | **Problem**                                                             | **Methods**                                                             | **Libs**                                       | **Domain**                | **Repo** |
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------------------|---------------------------|---------|
